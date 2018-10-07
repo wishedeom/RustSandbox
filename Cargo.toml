@@ -1,0 +1,7 @@
+[package]
+name = "sandbox"
+version = "0.1.0"
+authors = ["Wishe Deom <wishedeom@gmail.com>"]
+
+[dependencies]
+num = "0.1.42"
